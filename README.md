@@ -31,7 +31,7 @@ To get a local copy up and running, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/BeTube.git
+   git clone https://github.com/piksl1/BeTube-v2.git
    ```
 
 2. Navigate to the project directory:
