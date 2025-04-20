@@ -11,7 +11,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "beTube - YouTube Clone",
   description: "A YouTube clone built with Next.js and TypeScript",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
